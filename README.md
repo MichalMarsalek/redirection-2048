@@ -1,2 +1,3 @@
-# redirection-2048
- 2048 game for the Redirection arcade
+# 2048 game for the Redirection arcade
+Self explanatory. One of the ugliest codes I've written lately.
+ 
